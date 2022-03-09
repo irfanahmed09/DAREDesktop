@@ -1,0 +1,7 @@
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\bin\Debug\GetCursorPosDemo.exe.config
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\bin\Debug\GetCursorPosDemo.exe
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\bin\Debug\GetCursorPosDemo.pdb
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\obj\Debug\GetCursorPosDemo.csproj.CoreCompileInputs.cache
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\obj\Debug\GetCursorPosDemo.exe
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\obj\Debug\GetCursorPosDemo.pdb
+D:\StonyBrook\Study\AdvProject\Desktop Apps\Testing\GetCursorPosDemo\GetCursorPosDemo\GetCursorPosDemo\obj\Debug\GetCursorPosDemo.csproj.AssemblyReference.cache
